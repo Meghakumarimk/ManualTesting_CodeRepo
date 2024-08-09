@@ -11,6 +11,7 @@ public class assignment4 {
 	public assignment4(int a)
 	
 	{
+		
 		this(5,6);
 		System.out.println("One parameterised");
 	}
